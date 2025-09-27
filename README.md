@@ -1,39 +1,53 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# ✨ Ngetikin
 
-## Getting Started
+Selamat datang di **Ngetikin** — sebuah ekosistem terbuka untuk kolaborasi, eksperimen, dan pembangunan produk digital.  
+Repo ini adalah **repo utama / root** dari organisasi `ngetikin` di GitHub.
 
-First, run the development server:
+---
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 🚀 Apa itu Ngetikin?
+Ngetikin adalah ruang kolaborasi untuk:
+- 💻 Eksperimen teknologi (API, web app, bot, automation).
+- 🛠️ Pengembangan produk internal & open source.
+- 📚 Dokumentasi, panduan, dan catatan belajar bersama.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+---
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## 📂 Struktur Repositori
+Organisasi `ngetikin` memiliki beberapa repo dengan fokus berbeda. Beberapa di antaranya:
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+- [`project-medium-markdown-crud-api`](https://github.com/ngetikin/project-medium-markdown-crud-api)  
+  API untuk konversi artikel Medium → Markdown → CRUD.
+  
+- *(akan bertambah seiring perjalanan tim 🚧)*
 
-## Learn More
+---
 
-To learn more about Next.js, take a look at the following resources:
+## 🧑‍💻 Kontribusi
+Kami terbuka untuk kontribusi dalam bentuk:
+- Issue (ide, bug report, improvement).
+- Pull request.
+- Diskusi di GitHub Discussions.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+> Pastikan membaca `CONTRIBUTING.md` (coming soon) sebelum mulai kontribusi.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+---
 
-## Deploy on Vercel
+## 📖 Dokumentasi
+Dokumentasi lengkap bisa ditemukan di folder [`/docs`](./docs) (jika tersedia pada repo terkait).  
+Untuk tiap proyek biasanya sudah ada `README.md` khusus.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+---
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
-# ngetikin
-# ngetikin
-# ngetikin
+## 🌐 Komunitas
+- Discord: *(coming soon)*
+- WhatsApp Team: *(internal)*
+
+---
+
+## 📜 Lisensi
+Proyek ini dirilis di bawah lisensi **MIT** — bebas digunakan, dimodifikasi, dan dibagikan, selama menyertakan lisensi asli.
+
+---
+
+> 📝 Catatan: Repo ini lebih berfungsi sebagai **profil organisasi** dan placeholder agar halaman utama GitHub `ngetikin` tidak kosong.
